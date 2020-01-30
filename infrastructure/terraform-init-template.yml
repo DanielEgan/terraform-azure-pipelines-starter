@@ -2,10 +2,10 @@ parameters:
   environment: stage
   provisionStorage: true
   TerraformVersion: 0.12.18
-  TerraformBackendServiceConnection: Terraform
-  TerraformEnvironmentServiceConnection: Terraform
+  TerraformBackendServiceConnection: Terraform2
+  TerraformEnvironmentServiceConnection: Terraform2
   TerraformBackendResourceGroup: terraform
-  TerraformBackendStorageAccount: charterpoc
+  TerraformBackendStorageAccount: s2segan1234
   TerraformBackendStorageContainer: terraformstate
   TerraformBackendLocation: westus
 
