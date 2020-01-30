@@ -5,9 +5,9 @@ parameters:
   TerraformBackendServiceConnection: Terraform
   TerraformEnvironmentServiceConnection: Terraform
   TerraformBackendResourceGroup: terraform
-  TerraformBackendStorageAccount: scenetoseitc1
+  TerraformBackendStorageAccount: charterpoc
   TerraformBackendStorageContainer: terraformstate
-  TerraformBackendLocation: North Europe
+  TerraformBackendLocation: westus
 
 steps:
 
